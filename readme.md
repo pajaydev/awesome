@@ -262,6 +262,7 @@
 - [Storybook](https://github.com/lauthieb/awesome-storybook#readme) - Development environment for UI components.
 - [Blazor](https://github.com/AdrienTorris/awesome-blazor#readme) - .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.
 - [Web Performance Metrics](https://github.com/csabapalfi/awesome-web-performance-metrics#readme) - Metrics to help understand page speed and user experience.
+- [Web Performance Budget](https://github.com/pajaydev/awesome-performance-budget#readme) - Curated list of why, how and tools to implement Web Performance Budget.
 
 
 ## Back-End Development
